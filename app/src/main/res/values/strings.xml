@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> FaiFly TestTask</string>
+    <string name="eTextHint">please input text</string>
+    <string name="btName">SPLIT</string>
+    <string name="btClear">CLEAR</string>
+    <string name="tLabel">RESULT</string>
+    <string name="tViewHint">here will be result text</string>
+
+
+
+</resources>
